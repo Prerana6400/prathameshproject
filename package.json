@@ -29,6 +29,7 @@
   },
 
   "dependencies": {
+     "vite": "^5.4.19",
 
     "@hookform/resolvers": "^3.9.0",
 
@@ -164,9 +165,9 @@
 
     "typescript": "^5.5.3",
 
-    "typescript-eslint": "^8.0.1",
+    "typescript-eslint": "^8.0.1"
 
-    "vite": "^5.4.19"
+   
 
   }
 
